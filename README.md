@@ -63,7 +63,7 @@
 
 Reach out to me at one of the following places!
 
-- Email at <a href="zlite147@gmail.com" target="_blank">`zlite147@gmail.com`</a>
+- Email at : `zlite147@gmail.com`
 
 
 ---
