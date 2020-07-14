@@ -47,7 +47,8 @@ import java.util.List;
     }
 
      private void jsonParse() {
-         String url = "https://newsapi.org/v2/top-headlines?country=in&apiKey=f3a591da3bb2428eb71e4d82b79bccf6";
+      //Replace ur API Key
+         String url = "https://newsapi.org/v2/top-headlines?country=in&apiKey=f3a591da3bb2428eb71***********";
 
 
          JsonObjectRequest request = new JsonObjectRequest(Request.Method.GET, url, null,
