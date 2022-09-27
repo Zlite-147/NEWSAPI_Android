@@ -63,7 +63,7 @@
 
 Reach out to me at one of the following places!
 
-- Email at : `zlite147@gmail.com`
+- Email at : `zlite147@gmail.com` | `aswarganesh1@gmail.com`
 
 
 ---
